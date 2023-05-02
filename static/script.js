@@ -1,0 +1,1 @@
+console.log(`Hi this iti is loging from java script`)
